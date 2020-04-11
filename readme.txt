@@ -1,8 +1,6 @@
-The code is implemented on jupyter notebook so both .py and .ipynb files are added
+The code is implemented on jupyter notebook so .ipynb files are added
 
-new_lstm.py : this is the main code file for lstm implementation on  modified KDD-CUP dataset
-
-new_lstm.ipynb : this is the jupyter notebook file for same code
+new_lstm.ipynb : this is the main code file for lstm implementation on  modified KDD-CUP dataset
 
 KDD_modified.csv:This is the dataset used for the code with modifications like 500 instances of each attack
 
